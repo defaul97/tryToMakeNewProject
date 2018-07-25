@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I am a cat! 
 New page - product
+=======
+I am a cat!
+new page ololo 
+>>>>>>> new-page
